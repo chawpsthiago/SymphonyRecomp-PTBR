@@ -30,6 +30,17 @@ O mod confere a versão do jogo antes de aplicar. Em outras versões ele não fa
 
 Para desinstalar, desative o mod ou apague a pasta `traducao-ptbr`.
 
+## Alternativa: instalador .bat
+Prefere uma imagem do jogo já traduzida (que também roda em emuladores como o DuckStation)? 
+
+Baixe `SOTN-Recomp-PTBR-v1.0-instalador-bat.zip`, extraia a pasta `instalador-ptbr` dentro da pasta do SymphonyRecomp e rode `APLICAR TRADUCAO.bat`. 
+
+Ele cria uma cópia traduzida do jogo e configura o recomp para usá-la. 
+
+**Use o mod **ou** o instalador .bat, não os dois.**
+
+
+
 ## Limitações conhecidas
 
 Esta é a versão 1.0 BETA da tradução original (cerca de 94% traduzida). Segundo o autor:
