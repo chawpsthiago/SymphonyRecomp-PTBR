@@ -4,14 +4,13 @@
 
 Mod para o [SymphonyRecomp](https://github.com/BlackLabelHQ/SymphonyRecomp) que deixa o jogo em **português do Brasil**, usando a tradução clássica de **[NEODAN / PO.B.R.E., 2008](https://romhackers.org/traducoes/console/playstation/castlevania-symphony-of-the-night-po.b.r.e)**.
 
-É só copiar e colar: o mod aplica a tradução enquanto o jogo lê o disco. **Sua imagem do jogo nunca é modificada**, e você não precisa de ferramentas de patch nem de uma cópia extra do jogo.
-
+É só copiar e colar: o mod aplica a tradução enquanto o jogo roda.
 ## Requisitos
 
 - SymphonyRecomp (testado na **v0.5.1b**)
 - Sua própria imagem de **Castlevania: Symphony of the Night (USA) — SLUS-00067**, em formato **.bin/.cue**
 
-O mod confere a versão do disco antes de aplicar. Em outras versões ele não faz nada e mostra um aviso.
+O mod confere a versão do jogo antes de aplicar. Em outras versões ele não faz nada e mostra um aviso.
 
 ## Instalação
 
@@ -42,14 +41,22 @@ Detalhes no `LEIAME.txt` original, incluído na pasta do mod.
 
 ## Créditos
 
-- **Tradução:** Fernando Arantes Dantas (NEODAN) — [PO.B.R.E.](https://romhackers.org/traducoes/console/playstation/castlevania-symphony-of-the-night-po.b.r.e), 2008
+- **Tradução:** [Fernando Arantes Dantas (NEODAN) — PO.B.R.E., 2008](https://romhackers.org/traducoes/console/playstation/castlevania-symphony-of-the-night-po.b.r.e)
 - **Mod para o SymphonyRecomp:** chawpsthiago
 - **SymphonyRecomp:** [BlackLabelHQ](https://github.com/BlackLabelHQ/SymphonyRecomp)
 
 Este repositório não contém nenhum arquivo do jogo. Você precisa ter sua própria cópia.
+
+## Uso de IA
+
+O código deste mod foi escrito pelo Claude Opus 5.5 e testado no jogo por mim. A tradução dos textos é inteiramente o trabalho original de NEODAN / PO.B.R.E. (2008); nenhum texto do jogo foi gerado ou alterado por IA.
+
+
 
 ---
 
 ### English
 
 Brazilian Portuguese translation mod for [SymphonyRecomp](https://github.com/BlackLabelHQ/SymphonyRecomp), based on the 2008 fan translation by NEODAN / PO.B.R.E. The patch is applied in memory while the game reads the disc, so your disc image is never modified. Requires your own Castlevania: SOTN (USA, SLUS-00067) bin/cue image. To install, extract `traducao-ptbr` into the `mods` folder, enable it under **Mods → Manage**, then restart the game. No game files are included.
+
+**AI disclosure:** the code of this mod was written by Claude Opus 5.5 and tested in-game by me. All in-game text is the original translation by NEODAN / PO.B.R.E. (2008); no game text was generated or altered by AI.
