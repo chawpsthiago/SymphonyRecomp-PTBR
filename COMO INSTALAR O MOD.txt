@@ -1,0 +1,67 @@
+CASTLEVANIA: SYMPHONY OF THE NIGHT - TRADUÇÃO PT-BR PARA O SYMPHONYRECOMP
+=========================================================================
+
+Tradução: Fernando Arantes Dantas (NEODAN) - PO.B.R.E. (2008), versão 1.0 BETA
+https://romhackers.org/traducoes/console/playstation/castlevania-symphony-of-the-night-po.b.r.e
+Mod para o SymphonyRecomp: chawpsthiago
+Detalhes e créditos da tradução: "LEIAME DA TRADUÇÃO (versão 2008).txt"
+
+O QUE VOCÊ PRECISA
+------------------
+- SymphonyRecomp (testado na v0.5.1b): https://github.com/BlackLabelHQ/SymphonyRecomp
+- Sua própria imagem de Castlevania - Symphony of the Night (USA), SLUS-00067,
+  em formato .bin/.cue (não funciona com a versão europeia/japonesa).
+
+Existem duas formas de instalar. Escolha UMA delas, não use as duas juntas.
+
+
+OPÇÃO 1 - MOD (RECOMENDADA)
+---------------------------
+Arquivo: SOTN-Recomp-PTBR-v1.0.zip
+
+A tradução é aplicada enquanto o jogo lê o disco. Sua imagem do jogo não é
+modificada e nenhuma cópia extra é criada.
+
+1. Extraia a pasta "traducao-ptbr" dentro da pasta "mods" do SymphonyRecomp:
+      SymphonyRecomp\mods\traducao-ptbr\
+2. Abra o SymphonyRecomp, vá em Mods > Gerenciar e ative "Tradução PT-BR".
+3. Feche e abra o jogo de novo (ou use Sistema > Hard Reset).
+
+Para desinstalar: desative o mod ou apague a pasta "traducao-ptbr".
+
+
+OPÇÃO 2 - INSTALADOR .BAT
+-------------------------
+Arquivo: SOTN-Recomp-PTBR-v1.0-instalador-bat.zip
+
+Cria uma cópia traduzida da imagem do jogo (que também roda em emuladores
+como o DuckStation) e configura o SymphonyRecomp para usá-la.
+Precisa de uns 600 MB livres no disco.
+
+1. Abra o SymphonyRecomp pelo menos uma vez, selecione o .cue do jogo e feche.
+2. Extraia a pasta "instalador-ptbr" dentro da pasta do SymphonyRecomp
+   (a mesma pasta onde está o sotn.exe).
+3. Dê dois cliques em "APLICAR TRADUCAO.bat" e espere a mensagem "Pronto!".
+4. Abra o sotn.exe.
+
+O instalador confere se a sua imagem é a versão certa, cria uma cópia do jogo
+com " [PT-BR]" no nome da pasta e configura o recomp para usá-la.
+O seu jogo original não é modificado.
+
+Para voltar ao inglês: dê dois cliques em "REMOVER TRADUCAO.bat". Depois, se
+quiser, apague a pasta do jogo terminada em " [PT-BR]".
+
+
+LIMITAÇÕES CONHECIDAS
+---------------------
+- É a versão BETA de 2008 (cerca de 94% traduzida): nomes das áreas e alguns
+  avisos ("Level up" etc.) continuam em inglês, e parte dos textos não tem
+  acentos. Veja o "LEIAME DA TRADUÇÃO (versão 2008).txt".
+- No menu, "ATT" aparece como "ATA".
+
+
+USO DE IA
+---------
+O código deste mod foi escrito pelo Claude Opus 5.5 e testado no jogo por
+chawpsthiago. A tradução dos textos é inteiramente o trabalho original de
+NEODAN / PO.B.R.E. (2008); nenhum texto do jogo foi gerado ou alterado por IA.
