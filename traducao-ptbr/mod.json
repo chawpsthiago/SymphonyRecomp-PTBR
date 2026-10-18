@@ -1,0 +1,8 @@
+{
+    "id": "traducao-ptbr",
+    "name": "Tradução PT-BR",
+    "version": "1.0",
+    "author": "autor do MOD: chawpsthiago",
+    "description": "Tradução para português do Brasil por NEODAN / PO.B.R.E., 2008\n\nAplica o patch na leitura do disco, sem modificar sua imagem do jogo.\nRequer Castlevania: SOTN (USA) SLUS-00067.\n\nDepois de ativar, reinicie o jogo.",
+    "dependencies": []
+}

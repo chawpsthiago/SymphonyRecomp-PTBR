@@ -1,0 +1,176 @@
+**************************************************************
+*  PARABÉNS! VOCÊ FAZ PARTE DOS 0,001% DE PESSOAS QUE PEGAM  *
+*  UM ARQUIVO NA INTERNET, MAS QUE LÊEM A DOCUMENTAÇÃO QUE   *
+*                          ACOMPANHA.                        *
+**************************************************************
+
+
+                         #########-
+                    ####################-
+                 #########################
+                 ######-----###-----######-
+                 ######-    ###-    ######-
+                 #########################-
+                 #########################-
+                  -----#############-------
+                       ###--###--###-
+                     #####- ###- #####
+                 #### -----  ---  ----####
+                  ----                 ----
+    Po.B.R.E. - Portal Brasileiro de Romhacking e Emulação
+                  http://www.romhackers.org
+
+**************************************************************
+*               Castlevania - Sinfonia da Noite              *
+*                       versão 1.0 BETA                      *
+*             por Fernando Arantes Dantas (NEODAN)           *
+*                   fernando-ad@hotmail.com                  *
+**************************************************************
+
+
+**************************************************************
+*                     DADOS DA TRADUÇÃO                      *
+**************************************************************
+JOGO:               Castlevania - Symphony of the Night
+VERSÃO:             Americana (SLUS_000.67)
+CRC32:              4C923251
+PLATAFORMA:         PS1
+PRODUTORA:          KONAMI
+LANÇAMENTO:         1997
+GÊNERO:             Aventura / Plataforma
+BOXART:				http://img301.imageshack.us/img301/1580/castlevaniakz7.jpg
+IDIOMA ORIGINAL:    Inglês
+IDIOMA DA TRADUÇÃO: Português (BR)
+INÍCIO DO PROJETO:  ??/??/2004
+1ª VERSÃO PÚBLICA:  26/12/2008
+
+
+**************************************************************
+*                      STATUS DA TRADUÇÃO                    *
+**************************************************************
+ACENTUAÇÃO:	 60%
+DIÁLOGOS:	100%
+GRÁFICOS:	~98%
+ITENS:		100%
+BIBLIOTECA:	100%
+MENUS:		100%*
+TEXTOS: 	100%
+---------------------
+TOTAL:		~94%
+
+
+v1.0 BETA
+---------
+Primeira versão pública desse projeto que está completando 4 anos
+de existência. Diálogos, nome dos itens, biblioteca e menus em
+geral foram totalmente traduzidos, assim como a maioria dos gráficos
+e sistema de jogo. Foram feitos ajustes em janelas e fontes para
+uma melhor visualização. Isso é apenas uma versão BETA, então você
+encontrará alguns problemas durante o jogo que ainda precisam ser
+solucionados, mas nada que impessa a diversão dos fãs desse jogo.
+  
+O QUE FALTA NA TRADUÇÃO?
+* A palavra 'ATT' do menu em jogo foi modificado para 'ATA' pois
+  essa palavra não está como texto, é um tilemap comprimido que
+  possui apenas as letras 'ATDEF', quem sabe com a ajuda dos mais
+  experientes possamos solucionar esse problema;
+- Os gráficos das alterações de estado do personagem ainda não
+  foram totalmente ajustados pois eu ainda não dominei os blocos
+  de tiles que estão algumas vezes bem limitados, futuramente
+  espero resolver esta pendência, isso não atrapalhará a diversão;
+- Não foram acentuados o prólogo, os créditos, descrições dos itens,
+  descrição do menu de Memory Card e descrição na Biblioteca, pois
+  essa fonte é "importada" da bios do Playstation, necessitando
+  assim um conhecimento mais profundo de programação;
+
+O QUE NÃO FOI TRADUZIDO DEVIDO À COMPRESSÃO GRÁFICA?
+- Nome das localidades em jogo;
+- Os dizeres de alteração de estado: "Life max up", "Heart max up",
+  "Level up" e "Got an item";
+
+
+**************************************************************
+*           COMO APLICAR A TRADUÇÃO NA ROM ORIGINAL          *
+**************************************************************
+
+Primeiramente, vamos ao ponto que mais interessa a quem pegou
+esta tradução:
+
+- Como usá-la?
+
+Para usar a tradução, você precisa ter a Imagem de CD 'AMERICANA'
+e 'NÃO MODIFICADA' do jogo 'Castlevania - Symphony of the Night'
+para o sistema Playstation com checksum 4C923251 (ainda não foi
+avaliado em outras versões). Tendo o jogo em mãos, abra o programa
+'PPF-O-MATIC'.
+
+Agora, proceda:
+
+a) Em "PPF-File", clique no botão "Load PPF-File";
+
+b) Procure onde está o arquivo 'SLUS_000.67 [08-12-26].ppf',
+   clique nele e depois clique em "ABRIR";
+
+c) Em BIN-File, clique no botão "Load BIN-File";
+
+d) Procure onde está sua ISO original, clique nela e depois
+   clique em "ABRIR";
+
+e) Agora clique no botão "Apply", e pronto! A sua ISO está
+   traduzida.
+
+OBS: Caso você prefira, o emulador ePSXe utiliza-se de um
+     sistema de auto-patch em tempo real, evitando assim de
+     gravar um cd para rodar o jogo traduzido. Para ativar
+     esse modo, renomeie o arquivo ppf dessa tradução para
+     SLUS_000.67 e copie esse arquivo para a pasta 'patches'
+     do emulador. Pronto! Rode o seu CD original ou a sua
+     ISO original e você notará que o jogo está traduzido.
+
+Lembre-se:
+
+"É aconselhável fazer uma cópia de segurança da sua ISO antes
+de aplicar o patch. Assim, você conservará uma ISO original
+para o caso de futuras atualizações da tradução."
+
+
+**************************************************************
+*                         COMENTÁRIOS                        *
+**************************************************************
+Muito se passou desde o seu princípio, problemas,
+desânimos, frustrações, sonos perdidos, dores de cabeça, mas
+também muitas alegrias, emoções, surpresas, conhecimentos,
+grupos de traduções, amizades. Isso está agregado a uma tradução
+que consumiu muito e fará parte da minha vida.
+
+No jogo vocês notarão que foram feitas inúmeras modificações nos
+nomes de diversos inimigos do jogo nos registros da Biblioteca.
+Eu resolvi adotar o nome VERDADEIRO dos demônios pelos quais eles
+foram inspirados, dando assim uma certa veracidade e enriquecimento
+na identidadeao conteúdo do jogo. Não sei se é uma questão de
+tradução para o ocidente, mas achei diversos nomes simplesmente
+estranhos. Alguns eu já sabia da sua origem e então eu acabei
+decidindo pesquisar até na cultura de outras línguas para montar
+essa Biblioteca, assim eu acabei descobrindo e aprendendo muito.
+Espero que gostem dessa minha decisão!
+
+
+**************************************************************
+*                        AGRADECIMENTOS                      *
+**************************************************************
+Lynx: por sua revisão e seu apoio no ano de 2006;
+Tiozinho da Telesena: por sua revisão muito bem apurada;
+Devilfox: pelos conselhos e apoio em geral;
+huskie: por sua contribuição na parte dos créditos;
+FUT: pelos membros que me deram a maior força várias vezes.
+
+**************************************************************
+*                           CONTATO                          *
+**************************************************************
+Po.B.R.E. MSN GROUP: mgroup63260@hotmail.com
+e-mail: fernando-ad@hotmail.com
+
+
+PARABÉNS! VOCÊ FAZ PARTE DOS (0,001%)² DE PESSOAS QUE PEGAM UM
+ARQUIVO NA INTERNET, MAS QUE LÊEM A DOCUMENTAÇÃO QUE O ACOMPANHA
+"ATÉ O FIM".
