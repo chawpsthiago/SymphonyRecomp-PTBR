@@ -25,7 +25,7 @@ O mod confere a versão do jogo antes de aplicar. Em outras versões ele não fa
            ├── patch\
            └── source\
    ```
-3. Abra o SymphonyRecomp, vá em **Mods → Gerenciar** e ative **Tradução PT-BR**.
+3. Abra o SymphonyRecomp, vá em **Mods → Gerenciar Mods** e ative **Tradução PT-BR**.
 4. Feche e abra o jogo de novo (ou use **Sistema → Hard Reset**).
 
 Para desinstalar, desative o mod ou apague a pasta `traducao-ptbr`.
