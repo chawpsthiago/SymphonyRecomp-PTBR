@@ -4,7 +4,7 @@
 
 Mod para o [SymphonyRecomp](https://github.com/BlackLabelHQ/SymphonyRecomp) que deixa o jogo em **português do Brasil**, usando a tradução clássica de **[NEODAN / PO.B.R.E., 2008](https://romhackers.org/traducoes/console/playstation/castlevania-symphony-of-the-night-po.b.r.e)**.
 
-É só copiar e colar: o mod aplica a tradução enquanto o jogo roda.
+
 ## Requisitos
 
 - SymphonyRecomp (testado na **v0.5.1b**)
