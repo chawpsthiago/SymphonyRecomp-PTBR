@@ -68,6 +68,6 @@ O código deste mod foi escrito pelo Claude Opus 5.5 e testado no jogo por mim. 
 
 ### English
 
-Brazilian Portuguese translation mod for [SymphonyRecomp](https://github.com/BlackLabelHQ/SymphonyRecomp), based on the 2008 fan translation by NEODAN / PO.B.R.E. The patch is applied in memory while the game reads the disc, so your disc image is never modified. Requires your own Castlevania: SOTN (USA, SLUS-00067) bin/cue image. To install, extract `traducao-ptbr` into the `mods` folder, enable it under **Mods → Manage**, then restart the game. No game files are included.
+Brazilian Portuguese translation mod for [SymphonyRecomp](https://github.com/BlackLabelHQ/SymphonyRecomp), based on the 2008 fan translation by NEODAN / PO.B.R.E. The patch is applied in memory while the game reads the disc, so your disc image is never modified. Requires your own Castlevania: SOTN (USA, SLUS-00067) bin/cue image. To install, extract `traducao-ptbr` into the `mods` folder, enable it under **Mods → Manage Mods**, then restart the game. No game files are included.
 
 **AI disclosure:** the code of this mod was written by Claude Opus 5.5 and tested in-game by me. All in-game text is the original translation by NEODAN / PO.B.R.E. (2008); no game text was generated or altered by AI.
